@@ -1,0 +1,11 @@
+def CountNucleotides(str):
+    DNAdict = {"A": 0, "C": 0, "G": 0, "T": 0}
+    for nuc in str:
+        DNAdict[nuc] += 1
+    return DNAdict
+
+
+DNAstring = "ACTATGTCCT" // enter your random nucleotide string
+
+result = CountNucleotides(DNAstring)
+print(result)
