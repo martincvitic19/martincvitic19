@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martincvitic19
-- 👀 I’m interested in medical data analysis, bioinformatics and biomedical engineering
+- 👀 I’m interested in embedded systems programming, especially ones running Linux 
 - 🌱 I’m currently learning deep learning and bioinformatics as well as embedded engineering
 - 💞️ I’m looking to collaborate on biomedical projects
 
