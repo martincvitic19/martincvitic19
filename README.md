@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @martincvitic19
-- 👀 I’m interested in embedded systems programming, especially ones running Linux 
-- 🌱 I’m currently learning deep learning and bioinformatics as well as embedded engineering
-- 💞️ I’m looking to collaborate on biomedical projects
-
+Hi, I’m @martincvitic19
+I’m interested in embedded systems programming, especially ones running Linux.
 
 <!---
 martincvitic19/martincvitic19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
