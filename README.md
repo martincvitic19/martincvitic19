@@ -1,7 +1,7 @@
 Hi, I’m @martincvitic19!
 <br />
 <br />
-I’m interested in embedded systems programming, especially ones running Linux.
+I’m interested in embedded systems programming, especially ones running Linux as well as electronics and PCB design.
 
 <!---
 martincvitic19/martincvitic19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
